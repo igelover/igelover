@@ -8,9 +8,10 @@
   my name is Israel Gelover
 </h1>
 
+<img src="http://gelover.com/banner.jpeg" alt="I'm a .NET Technical Architect"/>
+
 ### :man_technologist: About Me:
 #### I'm a .NET Technical Architect
-<img src="http://gelover.com/banner.jpeg" alt="I'm a .NET Technical Architect"/>
 
 I'm a seasoned .NET specialist with over 20 years of experience in the software development industry. I have been recently focusing on Cloud Native solutions using Microservices Oriented Architectures. I have extensive experience with Microsoft and Open-Source Technologies. I'm passion driven, fast learner, adaptive to change and detail oriented.
 
@@ -25,7 +26,7 @@ I'm a seasoned .NET specialist with over 20 years of experience in the software 
 - Unit Testing: MS Test, xUnit, Moq
 - Methodologies: Scrum, XP
 
-#### 📫 How to reach me
+#### How to reach me
 :mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igelover/)
 
 :mailbox: GitHub [![Github Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Github&logoColor=white)](https://github.com/igelover)
@@ -35,7 +36,5 @@ I'm a seasoned .NET specialist with over 20 years of experience in the software 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=igelover&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=igelover&show_icons=true&theme=vision-friendly-dark)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=igelover)  
 
 ![Profile views](https://komarev.com/ghpvc/?username=igelover)  
