@@ -26,10 +26,10 @@ I'm a seasoned .NET specialist with over 20 years of experience in the software 
 - Unit Testing: MS Test, xUnit, Moq
 - Methodologies: Scrum, XP
 
-#### How to reach me
-:mailbox: LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igelover/)
+#### :mailbox: How to reach me
+LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/igelover/)
 
-:mailbox: GitHub [![Github Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Github&logoColor=white)](https://github.com/igelover)
+GitHub [![Github Badge](https://img.shields.io/badge/-igelover-blue?style=flat&logo=Github&logoColor=white)](https://github.com/igelover)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igelover&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
